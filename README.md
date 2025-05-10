@@ -1,1 +1,6 @@
-# hg-2-bravo-prueba
+# bravo
+
+| Nombre | Ubicación |
+| ------ | ------ |
+| Veronica Bustos | Maracaibo |
+| Jorbi Fernandez | Maracaibo |
